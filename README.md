@@ -1,10 +1,11 @@
 ### Hi I'm Cristina 👋 :woman_technologist:
 
 A data science graduate student who takes pride in building models that translate data into business insights. Experienced in data acquisition, data pre-processing, data modeling, statistical analysis, machine learning, natural language processing and deep learning. Background in psychology, health sciences and non-profit. I have been learning/working mostly with Python, R, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Linux, SPSS, Data Mining, ML, Hadoop, Spark, Docker, GCL, AWS, Tensorflow, Keras among others.
-I also help [Data Umbrella](https://www.dataumbrella.org/) to organize events.
+
+I'm a co-organizer at [Data Umbrella](https://www.dataumbrella.org/).
 
 ## Information
-- [Email:mailbox:](cristinamulaslopez@gmail.com)   
+ 
 - [Blog🧾](https://medium.com/@cristinamulaslopez)   
 - [Linkedin:briefcase:](http://www.linkedin.com/in/cristina-mulas-00321a167)
 <!--
