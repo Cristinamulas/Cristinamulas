@@ -1,4 +1,4 @@
-# Hi I'm Cristina 👋 :woman_technologist:
+# Hi there, my name is Cristina! 👋 :woman_technologist:
 
 I’m a data scientist who takes pride in building models that translate data into business insights. Experienced and interested in all things data acquisition, data pre-processing, data modeling, statistical analysis, machine learning, natural language processing and deep learning. 
 
